@@ -5,6 +5,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsaharaMasahiro&count_private=true&show_icons=true&theme=merko" />
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsaharaMasahiro&theme=dark)
+
 <!--
 **AsaharaMasahiro/AsaharaMasahiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
