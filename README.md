@@ -1,23 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
+- 🔭  I’m currently working on something cool 😉
+- 🌱  I like Flutter, React, GraphQL and Neovim
+- ⚡  Fun fact: I ❤️ ⚾ and 🏍️
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AsaharaMasahiro&count_private=true&show_icons=true&theme=merko" />
-</a>
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=nextjs,react,javascript,typescript,nodejs,python,firebase,gcp,aws,graphql,git,github" />
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsaharaMasahiro&theme=dark)
-
-<!--
-**AsaharaMasahiro/AsaharaMasahiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Activities 🏃‍♀️
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=assa1605&theme=github_dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assa1605&theme=github_dark&layout=compact" />
+</div>
 -->
