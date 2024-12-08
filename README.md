@@ -31,9 +31,9 @@ Web Application Developer
 
 ## Hackathon / Internship 🧑‍💻
 - Giftee Inc. Internship 7 days
-- [Rakuten Summer Short Internship ~ 二子玉川夏の陣2021 ~](https://commerce-engineer.rakuten.careers/entry/newgrads/0010) 5days 
+- [Rakuten Summer Short Internship ~ 二子玉川夏の陣2021 ~](https://commerce-engineer.rakuten.careers/entry/newgrads/0010) 5 days 
 - Yahoo Inc. Job Internship 2 weeks
-- Dena Inc. オータム Hackathon 2021 2days
+- Dena Inc. オータム Hackathon 2 days
 - CyberAgent Inc. 次世代トップエンジニア創出インターンシップ ACE 3days
 - CyberAgent Inc. Job Internship 2 weeks
 
