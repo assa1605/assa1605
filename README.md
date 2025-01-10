@@ -16,9 +16,6 @@ Web Application Developer
 - 2021 - 2023 Graduate School of Science and Technology for Innovation, Tokushima University
 - 2023 - CyberAgent Inc. Web Frontend Developer
 
-##  Training Programs 👓
-- [Web UI Summit 2023 - Japan Edition](https://rsvp.withgoogle.com/events/web-ui-summit-jp)
-
 ## Speaker 🗣️
 - [PWA Night vol.27 ～HitRate & AnyManagerのPWA活用事例～](https://pwanight.connpass.com/event/211250/)
 - [アクセシビリティやるぞ！LT祭り #6](https://smarthr.connpass.com/event/326087/)
@@ -37,6 +34,8 @@ Web Application Developer
 - CyberAgent Inc. 次世代トップエンジニア創出インターンシップ ACE 3days
 - CyberAgent Inc. Job Internship 2 weeks
 
+##  Training Programs 👓
+- [Web UI Summit 2023 - Japan Edition](https://rsvp.withgoogle.com/events/web-ui-summit-jp)
 
 ## Qualifications 🍺
 - [ビール検定3級](https://beerken.jp)
