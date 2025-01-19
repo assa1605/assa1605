@@ -18,7 +18,7 @@ Web Application Developer
 
 ## Speaker 🗣️
 - [PWA Night vol.27 ～HitRate & AnyManagerのPWA活用事例～](https://pwanight.connpass.com/event/211250/)
-- [アクセシビリティやるぞ！LT祭り #6](https://smarthr.connpass.com/event/326087/)
+- [アクセシビリティやるぞ！LT祭り #6](https://note.com/a11y_tester/n/ne4b729eb698c)
 - [Muddy Web #10 ~ Special Edition ~ 【ゲスト: pixiv】](https://cyberagent.connpass.com/event/335669/)
 
 ## Articles 📗
