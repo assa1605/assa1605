@@ -25,15 +25,6 @@ Web Application Developer
 - [ジャンプTOON Next.js App Router の活用〜得られた恩恵と課題〜](https://developers.cyberagent.co.jp/blog/archives/49429/)
 - [Qiita](https://qiita.com/assa1605)
 
-
-## Hackathon / Internship 🧑‍💻
-- Giftee Inc. Internship 7 days
-- [Rakuten Summer Short Internship ~ 二子玉川夏の陣2021 ~](https://commerce-engineer.rakuten.careers/entry/newgrads/0010) 5 days 
-- Yahoo Inc. Job Internship 2 weeks
-- Dena Inc. オータム Hackathon 2 days
-- CyberAgent Inc. 次世代トップエンジニア創出インターンシップ ACE 3days
-- CyberAgent Inc. Job Internship 2 weeks
-
 ##  Training Programs 👓
 - [Web UI Summit 2023 - Japan Edition](https://rsvp.withgoogle.com/events/web-ui-summit-jp)
 
