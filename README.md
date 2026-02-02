@@ -15,4 +15,6 @@ Faculty of Science and Technology, The University of Tokushima
 Web Application Developer
 - 2021 - 2023 Graduate School of Science and Technology for Innovation, Tokushima University
 - 2023 - CyberAgent Inc. Web Frontend Developer
+- 2026 - Soda Inc. Web Developer
+
 
